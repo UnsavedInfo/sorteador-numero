@@ -1,1 +1,1 @@
-# Using this file to practics git commands
+# Using this file to practice git commands
